@@ -11,3 +11,9 @@ npm run test
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+#### Interesting files:
+pages/components/pokerHand.tsx
+
+pages/functions.ts
